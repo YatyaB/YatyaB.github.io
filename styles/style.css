@@ -1,0 +1,60 @@
+html {
+  font-size: 10px;
+  font-family: "Madimi One", sans-serif;
+}
+
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 30px;
+  text-shadow: 4px 4px 4px rgb(73, 47, 8);
+}
+
+h3 {
+  font-size: 20px;
+  text-shadow: 4px 4px 4px rgb(73, 47, 8);
+}
+
+h4 {
+  font-size: 15px;
+  text-shadow: 2px 2px 2px rgb(109, 108, 106);
+}
+
+p, li {
+  font-size: 17px;
+  line-height: 1.5;
+}
+
+
+html {
+  background-color: rgb(99, 95, 95);
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #ffffff;
+  padding: 0 350px 350px 350px;
+  border: 5px solid rgb(88, 88, 88);
+  text-align: left;
+}
+
+h1 {
+  margin: 0;
+  padding: 25px 0;
+  color: rgb(82, 77, 77);
+  text-shadow: 4px 4px 4px rgb(73, 47, 8);
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+div {
+  font-size: 12px;
+}
